@@ -1,0 +1,12 @@
+{
+  "name": "stripping_names",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 06 {Stripping Names}",
+  "main": "stripping_names.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}

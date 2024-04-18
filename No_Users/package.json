@@ -1,0 +1,12 @@
+{
+  "name": "no_users",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 31 {No Users}",
+  "main": "no_users.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz(490877)",
+  "license": "ISC"
+}

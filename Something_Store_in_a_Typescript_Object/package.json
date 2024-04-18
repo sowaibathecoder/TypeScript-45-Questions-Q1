@@ -1,0 +1,12 @@
+{
+  "name": "something_store_in_a_typescript_object",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 21 {Something Store in a Typescript Object}",
+  "main": "something_store_in_a_typescript_object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}
