@@ -1,0 +1,12 @@
+{
+  "name": "alien_colors1",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 25 {Alien Colors # 1}",
+  "main": "alien_colors1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}

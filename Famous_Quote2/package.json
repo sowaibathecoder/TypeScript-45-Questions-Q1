@@ -1,0 +1,12 @@
+{
+  "name": "famous_quote2",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 05 {Famous Quote2}",
+  "main": "famous_quote2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}

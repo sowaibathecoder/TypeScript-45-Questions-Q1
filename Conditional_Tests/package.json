@@ -1,0 +1,12 @@
+{
+  "name": "conditional_tests",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 23 {Conditional Tests}",
+  "main": "conditional_tests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}

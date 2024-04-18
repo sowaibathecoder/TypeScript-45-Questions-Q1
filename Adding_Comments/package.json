@@ -1,0 +1,12 @@
+{
+  "name": "adding_comments",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 10 {Adding Comments}",
+  "main": "adding_comments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}

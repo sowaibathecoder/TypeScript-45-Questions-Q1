@@ -1,0 +1,12 @@
+{
+  "name": "checking_usernames",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 32 {Checking Usernames}",
+  "main": "checking_usernames.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "dinner_guests",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 19 {Dinner Guests}",
+  "main": "dinner_guests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}

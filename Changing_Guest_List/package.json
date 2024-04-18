@@ -1,0 +1,12 @@
+{
+  "name": "changing_guest_list",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved task no: 15 {Changing Guest List}",
+  "main": "changing_guest_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sowaiba Naz (490877)",
+  "license": "ISC"
+}
